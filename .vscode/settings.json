@@ -1,0 +1,5 @@
+{
+    "CodeGPT.query.language": "Russian",
+    "python.analysis.typeCheckingMode": "off",
+    "CodeGPT.maxTokens": 2500
+}
