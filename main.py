@@ -4,14 +4,14 @@ from PIL import Image, ImageDraw, ImageTk
 import time
 
 def main():
-    # Create tkinter window
+    # Сделать окно
     root = tk.Tk()
     root.title("Gradient")
 
-    # Set up image generation parameters
+    # Параметры
     width, height = 800, 600
     
-    # Set up color gradient parameters
+    # Цвет
     color1 = (255, 0, 0)
     color2 = (0, 255, 0)
     steps = 50
